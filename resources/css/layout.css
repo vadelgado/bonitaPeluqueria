@@ -1,0 +1,26 @@
+
+.fuente{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  .fuentePeq{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+  }
+
+.fondoNav{
+  background-color: #E0D7F6;
+}
+
+.fondoNavLateral{
+  background-color: #E0D7F6;
+}
+
+.colorIconos{
+  color: black;
+}
+
